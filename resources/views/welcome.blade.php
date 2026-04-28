@@ -36,7 +36,7 @@
                     </div>
                 </div>
             @endforeach
-            </div>
+        </div>
     </main>
 
     <footer class="footer footer-center p-5 bg-base-300 text-base-content text-xs">
